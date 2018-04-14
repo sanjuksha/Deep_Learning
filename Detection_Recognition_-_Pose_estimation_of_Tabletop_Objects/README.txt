@@ -1,3 +1,6 @@
+This was the course project from my Deep Learning for Advance robotic perception class at WPI. 
+It was a group project in a group of 3.
+
 CODES AND VISUALIZATIONS:
 This folder consists of codes, visualizations and pickled datasets for angle determination 
 of the three objects(Mug, Mouse, Stapler).
